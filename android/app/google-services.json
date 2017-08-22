@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "416942615461",
+    "firebase_url": "https://bookyourvet-6ab87.firebaseio.com",
+    "project_id": "bookyourvet-6ab87",
+    "storage_bucket": "bookyourvet-6ab87.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416942615461:android:b73233da72e88235",
+        "android_client_info": {
+          "package_name": "com.bookyourvet.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "416942615461-oov36mvmh10s1gbq53uj080gjd0sgi8s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bookyourvet.android",
+            "certificate_hash": "0cf145ca6017a4a1fbedcb8dba699468173b6163"
+          }
+        },
+        {
+          "client_id": "416942615461-m38frcgffervhij6hlrhim0aim62bnkg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjjhAoBF9O25EoXIa7dkc6ewrDzqG2qiM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "416942615461-m38frcgffervhij6hlrhim0aim62bnkg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
